@@ -1,0 +1,25 @@
+.App {
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: repeat;
+  background-size: 1%;
+  padding-top: 4rem;
+  min-height: 100vh;
+}
+
+.navbar {
+  background-color: #ee1515 !important;
+  color: #ffffff;
+}
+
+.progress-bar {
+  background-color: #877da7;
+}
+
+.navbar a {
+  color: white !important;
+}
+
+h5 {
+  text-transform: capitalize;
+}
